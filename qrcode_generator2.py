@@ -1,5 +1,5 @@
 import streamlit as st
-import segno
+
 # no need to import the libs from different/called pages
 
 from decode_qrcode_page import decode_qrcode_page
