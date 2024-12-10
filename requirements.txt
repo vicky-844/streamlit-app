@@ -3,5 +3,3 @@ opencv-python-headless
 pillow
 qrcode-artistic
 hugchat
-hugchat.login
-
